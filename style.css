@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto';
+    /* background: red; */
+}
+
+#welcome-section{
+    background-color: rgb(220, 220, 233);
+    padding-top: 5rem;
+    height: 100vh;
+}
+
+#projects {
+    background-color: rgb(128, 128, 134);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.project-box{
+    padding: 5rem;;
+}
+
+.button-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contact {
+    background-color: rgb(220, 220, 233);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+#navbar{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+img.card-img-top {
+    height: 15rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
