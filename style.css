@@ -6,7 +6,7 @@ body {
 #welcome-section{
     background-color: rgb(220, 220, 233);
     padding-top: 5rem;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 #projects {
